@@ -1,0 +1,14 @@
+
+->package.json is a JSON  file that holds information about a Node.js
+
+->we have to initialize it by command npm init.
+
+->Stores important details about the project:
+1)name
+2)version
+3)description
+4)author
+5)license
+6)keywords
+
+->we have to install any package using command npm install/i packagename.
